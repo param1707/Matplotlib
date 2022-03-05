@@ -1,6 +1,6 @@
 # Matplotlib
 
-## This Repository is just a basic implementation of Matplotlib concepts for Machine and Deep Learning.
+## This Repository is just a basic implementation of Matplotlib concepts for Data Visualisation.
 Contents of this repository are:
 1) Introduction
 2) Format strings in plot function
